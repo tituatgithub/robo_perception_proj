@@ -1,0 +1,10 @@
+GuidedDecoding/percep/ 
+venv/ 
+__pycache__/ 
+*.pth 
+*.pt 
+*.bin 
+*.ckpt 
+datasets/ 
+output/ 
+weights/ 
